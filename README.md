@@ -18,3 +18,7 @@ This repository includes example commands and detailed references covering advan
 ## Usage
 
 Use when designing slash commands or troubleshooting command behavior. Consult the relevant files in `examples/` and `references/`. Confirm feature support against the installed Claude Code version.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
